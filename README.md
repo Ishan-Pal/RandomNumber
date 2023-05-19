@@ -13,7 +13,8 @@ In summary, the RandomNumber generator for password is a Java Swing application 
 ![image](https://github.com/Ishan-Pal/RandomNumber/assets/130207814/d4382c39-6696-479a-b8e8-1953f0739495)
 
 
-![image](https://github.com/Ishan-Pal/RandomNumber/assets/130207814/39fed985-b181-4036-b82a-2437373bfce3)
+![image](https://github.com/Ishan-Pal/RandomNumber/assets/130207814/97657dc8-8969-488e-bf1e-1f24568ac5c9)
+
 
 
 # some functionality 
