@@ -10,6 +10,11 @@ The RandomNumber generator for password emphasizes security by providing strong 
 
 In summary, the RandomNumber generator for password is a Java Swing application that simplifies the creation of secure passwords by generating randomized numbers. Its user-friendly interface, customizable options, and emphasis on strong password generation make it a valuable tool for enhancing data security and protecting against unauthorized access.
 
+![image](https://github.com/Ishan-Pal/RandomNumber/assets/130207814/d4382c39-6696-479a-b8e8-1953f0739495)
+
+
+![image](https://github.com/Ishan-Pal/RandomNumber/assets/130207814/39fed985-b181-4036-b82a-2437373bfce3)
+
 
 # some functionality 
 User-friendly interface for easy navigation and input.
